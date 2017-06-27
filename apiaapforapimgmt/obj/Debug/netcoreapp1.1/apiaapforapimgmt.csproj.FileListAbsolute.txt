@@ -1,0 +1,9 @@
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\bin\Debug\netcoreapp1.1\apiaapforapimgmt.deps.json
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\bin\Debug\netcoreapp1.1\apiaapforapimgmt.runtimeconfig.json
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\bin\Debug\netcoreapp1.1\apiaapforapimgmt.runtimeconfig.dev.json
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\bin\Debug\netcoreapp1.1\apiaapforapimgmt.dll
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\bin\Debug\netcoreapp1.1\apiaapforapimgmt.pdb
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\obj\Debug\netcoreapp1.1\apiaapforapimgmt.csprojResolveAssemblyReference.cache
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\obj\Debug\netcoreapp1.1\apiaapforapimgmt.AssemblyInfo.cs
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\obj\Debug\netcoreapp1.1\apiaapforapimgmt.dll
+c:\users\maksh\documents\visual studio 2017\Projects\apiaapforapimgmt\apiaapforapimgmt\obj\Debug\netcoreapp1.1\apiaapforapimgmt.pdb
